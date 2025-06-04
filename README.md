@@ -17,7 +17,7 @@ modules
 [module/weather]
 type = custom/script
 exec = $HOME/.config/polybar/scripts/weather.sh
-label = %{T1}%output%%{T3} #如果无法找到Unicode 图标 则选择font-1的字体
+label = %{T1}%output%%{T3} #如果无法找到Unicode 图标 则选择font-3的字体 即图标字体
 interval = 600
 ```
 
