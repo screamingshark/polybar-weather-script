@@ -1,5 +1,6 @@
 # polybar-weather-script
 polybar 的python3 天气模块多图标
+
 ![图片](https://github.com/user-attachments/assets/e3d2c661-b086-422a-b5d5-fce29258a816)
 
 字体选择
